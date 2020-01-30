@@ -1,0 +1,17 @@
+{
+  "settings": {
+    "react": {
+      "version": "16.9"
+    }
+  },
+  "env": {
+    "jest": true
+  },
+  "globals": {
+    "fetch": false
+  },
+  "extends": [
+    "@opengovsg/eslint-config-opengovsg",
+    "plugin:react/recommended"
+  ]
+}
