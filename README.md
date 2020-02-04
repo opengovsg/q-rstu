@@ -1,6 +1,6 @@
 # qRSTU
 A React Native app wrapping around CPF e-cashier that works in tandem with 
-[q-rstu-server](https://github.com/opengovsg/q-rstu-server]
+[q-rstu-server](https://github.com/opengovsg/q-rstu-server)
 
 ## Quickstart
 
